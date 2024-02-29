@@ -1,5 +1,5 @@
 <h1> Fashion_Store_Dashboard_Using_Excel </h1>
-
+The data analysis utilizes Microsoft Excel's Pivot Table functionality, which allows us to manipulate the data and summarize the large datasets into a structured format with the help of Data Cleaning, Data Processing and Data Analysis to extract meaningful insights through an interactive Dashboard.
 <h2> Objective </h2>
 Fashion Store wants to create an annual sales report for 2023. So that, the store can understand their customers and grow more sales in 2024. 
 Implemented an advanced Fashion Store Dashboard using EXCEL.
