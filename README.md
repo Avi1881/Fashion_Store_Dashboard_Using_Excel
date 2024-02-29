@@ -11,5 +11,5 @@ Implemented an advanced Fashion Store Dashboard using EXCEL.
 :heavy_check_mark: Amazon, Flipkart and Myntra channels are max contributing (~80) <br>
 
 <h2>Final Conclusion to improve Fashion store sales:</h2>
-:heavy_check_mark:Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra,
+:heavy_check_mark:Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
               
